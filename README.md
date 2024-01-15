@@ -2,7 +2,7 @@ I'm Arnav Gupta, a multifaceted tech enthusiast majoring in Information Technolo
 
 Data Structures, Algorithms, and competitive programming form the bedrock of my technical expertise, empowering me to tackle complex coding challenges with finesse. However, this is merely one aspect of my professional persona.
 
-Embracing my extroverted nature, I derive energy from engaging with others. This has not only enhanced my public speaking capabilities but also inspired the creation of "Geek Room", a vibrant community of over 4300+ coding enthusiasts. Here, we exchange insights, learn collectively, and nurture our shared passion for technology. (Intrigued? I warmly invite you to join us!)
+Embracing my extroverted nature, I derive energy from engaging with others. This has not only enhanced my public speaking capabilities but also inspired the creation of "Geek Room", a vibrant community of over 7000+ coding enthusiasts. Here, we exchange insights, learn collectively, and nurture our shared passion for technology. (Intrigued? I warmly invite you to join us!)
 
 Stepping away from the digital world, my entrepreneurial journey has recently embarked with the co-founding of "Balmse", an early-stage startup aiming to bring fresh scents to the fragrance and ittar industry. This endeavor challenges me to balance my technological expertise with my developing business acumen, offering an exciting landscape for continual growth.
 
