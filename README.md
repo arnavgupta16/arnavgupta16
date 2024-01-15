@@ -1,9 +1,59 @@
-I'm Arnav Gupta, a multifaceted tech enthusiast majoring in Information Technology at the Maharaja Surajmal Institute of Technology. My programming prowess spans languages such as C++, C, and Python, and extends into the compelling domain of Artificial Intelligence and Machine Learning (AI/ML) - a field I'm ardently engrossed in.
+# Arnav Gupta
 
-Data Structures, Algorithms, and competitive programming form the bedrock of my technical expertise, empowering me to tackle complex coding challenges with finesse. However, this is merely one aspect of my professional persona.
+📧 Email: arnavwork16@gmail.com | 📱 Phone: +91 8376069116
 
-Embracing my extroverted nature, I derive energy from engaging with others. This has not only enhanced my public speaking capabilities but also inspired the creation of "Geek Room", a vibrant community of over 7000+ coding enthusiasts. Here, we exchange insights, learn collectively, and nurture our shared passion for technology. (Intrigued? I warmly invite you to join us!)
+🌐 [LinkedIn](https://www.linkedin.com/in/Arnav-Gupta) | [GitHub](https://github.com/arnavgupta16)
 
-Stepping away from the digital world, my entrepreneurial journey has recently embarked with the co-founding of "Balmse", an early-stage startup aiming to bring fresh scents to the fragrance and ittar industry. This endeavor challenges me to balance my technological expertise with my developing business acumen, offering an exciting landscape for continual growth.
+---
 
-Grounded in the belief that learning is a ceaseless journey, I strive to diversify my interests and skillset. Let's connect, share, and evolve together in this incredible professional voyage!
+## Experience
+
+### Geek Room, Co-Founder
+*Full-Time Feb 2023 - Present*
+
+- Co-founded and led the Geek Room community to a remarkable 7,000 members.
+- Established Technology departments for AI/ML, Development, and DSA.
+  
+### BALMSE, Co-Founder
+*Full-Time July 2023 - Present*
+
+- Crafted and executed a comprehensive digital marketing strategy.
+- Spearheaded ITAR‑compliant strategies for seamless integration of cutting-edge technology into premium leather products.
+
+### Code Kshetra, Lead Organizer
+*Full-Time Oct 2023 - Feb 2024*
+
+- Led a 500-hacker hackathon with seamless execution.
+- Guided participants through challenges emphasizing the importance of AIML, Web3, and Cybersecurity.
+
+---
+
+## Education
+
+**Bachelors in Technology in Information Technology**  
+Maharaja Surajmal Institute of Technology | Delhi, India  
+*2022-26*
+
+---
+
+## Skills
+
+- **Programming:** Python, C/C++, Git, Scripting (Bash), LaTeX, HTML, YAML, Javascript, CSS
+- **Software:** OpenCV, TensorFlow, Pytorch, NLP, Transformers, Docker, Kubernetes, Flask, Hugging face
+
+---
+
+## Specializations
+
+- Machine Learning Specialization, Stanford Coursera
+- Deep Learning Specialization, Stanford Coursera
+- Docker, Swarm, and Kubernetes by Bret Fisher
+
+---
+
+## Contact Information
+
+- 📧 Email: arnavwork16@gmail.com
+- 📱 Phone: +91 8376069116
+- 🌐 [LinkedIn](https://www.linkedin.com/in/Arnav-Gupta)
+- 💻 [GitHub](https://github.com/arnavgupta16)
