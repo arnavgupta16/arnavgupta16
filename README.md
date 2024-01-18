@@ -58,9 +58,3 @@ Maharaja Surajmal Institute of Technology | Delhi, India | *2022-26*
 - 💻 [GitHub](https://github.com/arnavgupta16)
 
 
-## Contact Information
-
-- 📧 Email: arnavwork16@gmail.com
-- 📱 Phone: +91 8376069116
-- 🌐 [LinkedIn](https://www.linkedin.com/in/Arnav-Gupta)
-- 💻 [GitHub](https://github.com/arnavgupta16)
