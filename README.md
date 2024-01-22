@@ -2,7 +2,7 @@
 
 📧 Email: arnavwork16@gmail.com | 📱 Phone: +91 8376069116
 
-🌐 [LinkedIn](https://www.linkedin.com/in/Arnav-Gupta) | [GitHub](https://github.com/arnavgupta16)
+🌐 [LinkedIn](https://www.linkedin.com/in/arnav-gupta-437a66256/) | [GitHub](https://github.com/arnavgupta16)
 
 ---
 
