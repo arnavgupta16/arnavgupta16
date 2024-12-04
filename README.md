@@ -61,7 +61,7 @@ I'm an AI Engineer and tech community builder based in Delhi, India. Currently p
 
 Let's connect and build something amazing together!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arnav-gupta-437a66256/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/arnav-gupta-437a66256/])
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/arnavgupta16)
 
 ---
