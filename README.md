@@ -4,7 +4,7 @@ I'm an AI Engineer and tech community builder based in Delhi, India. Currently p
 
 ## 🚀 What I'm Up To
 
-- Co-founding GeekRoom, a thriving tech community with 15,000+ members
+- Co-founding GeekRoom, a thriving tech community with 30,000+ members
 - Building and deploying multimodal AI solutions
 - Mentoring teams in major hackathons
 - Writing technical articles and sharing knowledge with the developer community
