@@ -15,9 +15,9 @@ I'm an AI Engineer and tech community builder based in Delhi, India. Currently p
 {
     'Languages': ['Python', 'C/C++', 'JavaScript', 'SQL', 'YAML', 'Bash'],
     'AI/ML': ['TensorFlow', 'PyTorch', 'Transformers', 'LangChain', 'LlamaIndex'],
-    'Computer Vision': ['OpenCV', 'MediaPipe', 'ControlNet'],
-    'DevOps': ['Docker', 'Kubernetes', 'Git'],
-    'Web Dev': ['React.js', 'Flask', 'Streamlit'],
+    'Computer Vision': ['OpenCV', 'MediaPipe', 'ControlNet','yolo'],
+    'DevOps': ['Docker', 'Kubernetes', 'Git','aws','azure'],
+    'Web Dev': ['React.js', 'Flask', 'Streamlit', 'gradio', 'fastapi'],
     'Databases': ['Elasticsearch', 'ChromaDB', 'Qdrant']
 }
 ```
