@@ -48,7 +48,7 @@ I'm an AI Engineer and tech community builder based in Delhi, India. Currently p
 - 🥇 1st Place - Projexon 2023
 - 🥈 2nd Place - HackBPIT-2023
 - 🥉 3rd Place - HackMait2023
-- 👨‍🏫 Mentored 10+ teams in major hackathons
+- 👨‍🏫 Mentored 1000+ teams in major hackathons
 
 ## 📚 Certifications
 
